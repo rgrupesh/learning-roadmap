@@ -46,6 +46,14 @@
  - Decision Tree
  - Support Vector Machine
  - Naive Bayes
+ - k-Nearest Neighbours(kNN)
+ - k-Means Clustering
+ - Random Forest
+ - Dimensionality Reduction Algorithm
+   - PCA
+ - Gradient Boosting Algorithm
+   - AdaBoost
+   - XGBoost  
 
 
 ## Deep Learning
