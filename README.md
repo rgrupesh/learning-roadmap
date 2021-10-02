@@ -41,6 +41,12 @@
 ## Scipy
 
 ## Machine Learning
+ - Linear Regression 
+ - Logistic Regression
+ - Decision Tree
+ - Support Vector Machine
+ - Naive Bayes
+
 
 ## Deep Learning
 
