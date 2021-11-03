@@ -76,4 +76,5 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Fine-grained Sentiment Classification using BERT](https://arxiv.org/abs/1910.03474)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+- [MOGRIFIER LSTM](https://openreview.net/pdf?id=SJe5P6EYvS)
 
