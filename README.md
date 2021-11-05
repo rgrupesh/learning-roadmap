@@ -77,4 +77,5 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
 - [MOGRIFIER LSTM](https://openreview.net/pdf?id=SJe5P6EYvS)
+- [XGBoost](https://arxiv.org/abs/1603.02754#)
 
