@@ -80,3 +80,5 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [XGBoost](https://arxiv.org/abs/1603.02754#)
 - [GPT-3](https://arxiv.org/pdf/2005.14165v4.pdf)
 
+## Anomaly Detection
+
