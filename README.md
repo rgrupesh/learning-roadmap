@@ -78,4 +78,5 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
 - [MOGRIFIER LSTM](https://openreview.net/pdf?id=SJe5P6EYvS)
 - [XGBoost](https://arxiv.org/abs/1603.02754#)
+- [GPT-3](https://arxiv.org/pdf/2005.14165v4.pdf)
 
