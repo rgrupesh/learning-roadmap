@@ -84,4 +84,5 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 
 - [iForest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)
 - [LOF](https://www.researchgate.net/publication/221214719_LOF_Identifying_Density-Based_Local_Outliers)
+- [Autoencoder](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)
 
