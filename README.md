@@ -82,6 +82,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [How to Evaluate a Summarizer](https://arxiv.org/pdf/2101.11298.pdf)
 - [SHA-RNN](https://arxiv.org/pdf/1911.11423.pdf)
 - [Bearing Fault Detection Using Scalogram and Switchable Normalization-Based CNN (SN-CNN)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9456898)
+- [Is Deep Learning Superior in Machine Health Monitoring Applications?](https://humsconference.com.au/Papers2021/1_Diagnostics_and_Prognostics_1_3_Wang.pdf)
 
 ## Anomaly Detection
 
