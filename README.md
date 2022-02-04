@@ -91,3 +91,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Autoencoder](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)
 - [Deep Learning for Audio Signal Processing](https://arxiv.org/pdf/1905.00078.pdf)
 
+## Datasets
+
+-[CWRU Bearing datasets](https://engineering.case.edu/bearingdatacenter/download-data-file)
+
