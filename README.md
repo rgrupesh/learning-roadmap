@@ -84,6 +84,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Bearing Fault Detection Using Scalogram and Switchable Normalization-Based CNN (SN-CNN)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9456898)
 - [Is Deep Learning Superior in Machine Health Monitoring Applications?](https://humsconference.com.au/Papers2021/1_Diagnostics_and_Prognostics_1_3_Wang.pdf)
 - [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/pdf/2003.11755.pdf)
+- [HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning](https://arxiv.org/pdf/2201.04182.pdf)
 
 ## Anomaly Detection
 
