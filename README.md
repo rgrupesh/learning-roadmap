@@ -100,3 +100,4 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 ## Blockchain 
 
 -[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+-[Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
