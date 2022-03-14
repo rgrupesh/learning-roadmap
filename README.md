@@ -85,6 +85,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Is Deep Learning Superior in Machine Health Monitoring Applications?](https://humsconference.com.au/Papers2021/1_Diagnostics_and_Prognostics_1_3_Wang.pdf)
 - [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/pdf/2003.11755.pdf)
 - [HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning](https://arxiv.org/pdf/2201.04182.pdf)
+- [Automatic Generation of Extended ER Diagram Using Natural Language Processing](https://www.researchgate.net/publication/267636153_Automatic_Generation_of_Extended_ER_Diagram_Using_Natural_Language_Processing)
 
 ## Anomaly Detection
 
