@@ -103,3 +103,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 
 -[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 -[Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+
+## Blogs
+
+-[Deep Neural Nets: 33 years ago and 33 years from now](https://karpathy.github.io/2022/03/14/lecun1989/)
