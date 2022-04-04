@@ -87,6 +87,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning](https://arxiv.org/pdf/2201.04182.pdf)
 - [Automatic Generation of Extended ER Diagram Using Natural Language Processing](https://www.researchgate.net/publication/267636153_Automatic_Generation_of_Extended_ER_Diagram_Using_Natural_Language_Processing)
 - [Text classification for DAG-Structured categories](https://dl.acm.org/doi/10.1007/11430919_36)
+- [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 
 ## Anomaly Detection
 
