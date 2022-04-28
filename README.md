@@ -90,6 +90,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 - [Fastformer: Additive Attention Can Be All You Need](https://arxiv.org/abs/2108.09084)
 - [Generating ER Diagrams from Requirement Specifications Based On Natural Language Processing](http://article.nadiapub.com/IJDTA/vol8_no2/7.pdf)
+- [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
 
 ## Anomaly Detection
 
