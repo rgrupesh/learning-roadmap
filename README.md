@@ -92,6 +92,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Generating ER Diagrams from Requirement Specifications Based On Natural Language Processing](http://article.nadiapub.com/IJDTA/vol8_no2/7.pdf)
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
 - [Understanding The Robustness in Vision Transformers](https://arxiv.org/pdf/2204.12451v2.pdf)
+- [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf)
 
 ## Anomaly Detection
 
