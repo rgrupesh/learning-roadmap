@@ -93,6 +93,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
 - [Understanding The Robustness in Vision Transformers](https://arxiv.org/pdf/2204.12451v2.pdf)
 - [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf)
+- [Cluster-Former: Clustering-based Sparse Transformer for Question Answering](https://arxiv.org/pdf/2009.06097v2.pdf)
 
 ## Anomaly Detection
 
