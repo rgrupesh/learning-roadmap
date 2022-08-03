@@ -95,6 +95,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf)
 - [Cluster-Former: Clustering-based Sparse Transformer for Question Answering](https://arxiv.org/pdf/2009.06097v2.pdf)
 - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
 ## Anomaly Detection
 
