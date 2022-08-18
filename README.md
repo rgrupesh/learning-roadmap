@@ -96,6 +96,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Cluster-Former: Clustering-based Sparse Transformer for Question Answering](https://arxiv.org/pdf/2009.06097v2.pdf)
 - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+- [CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/abs/2105.13290)
 
 ## Anomaly Detection
 
