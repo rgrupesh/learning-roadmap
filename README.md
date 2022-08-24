@@ -97,6 +97,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 - [CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/abs/2105.13290)
+- [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/pdf/2208.01618v1.pdf)
 
 ## Anomaly Detection
 
