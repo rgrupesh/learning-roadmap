@@ -99,6 +99,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/abs/2105.13290)
 - [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/pdf/2208.01618v1.pdf)
 - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
+- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf)
 
 ## Anomaly Detection
 
