@@ -100,6 +100,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/pdf/2208.01618v1.pdf)
 - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 - [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf)
+- [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)
 
 ## Anomaly Detection
 
