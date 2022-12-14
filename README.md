@@ -122,3 +122,4 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 ## Blogs
 
 -[Deep Neural Nets: 33 years ago and 33 years from now](https://karpathy.github.io/2022/03/14/lecun1989/)
+-[ChatGPT](https://openai.com/blog/chatgpt/)
