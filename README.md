@@ -103,6 +103,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)
 - [CLIP- Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
 - [MedLeaf: Mobile Application For Medicinal Plant Identification Based on Leaf Image](https://www.researchgate.net/publication/237441676_MedLeaf_Mobile_Application_For_Medicinal_Plant_Identification_Based_on_Leaf_Image)
+- [LLM are drummers](https://arxiv.org/pdf/2301.01162v1.pdf)
 
 ## Anomaly Detection
 
