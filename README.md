@@ -105,6 +105,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [MedLeaf: Mobile Application For Medicinal Plant Identification Based on Leaf Image](https://www.researchgate.net/publication/237441676_MedLeaf_Mobile_Application_For_Medicinal_Plant_Identification_Based_on_Leaf_Image)
 - [LLM are drummers](https://arxiv.org/pdf/2301.01162v1.pdf)
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://arxiv.org/pdf/2301.00704.pdf)
+- [The Forward-Forward Algorithm](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
 
 ## Anomaly Detection
 
