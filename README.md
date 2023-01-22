@@ -108,6 +108,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [The Forward-Forward Algorithm](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
 - [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/pdf/1811.12808.pdf)
 - [Megatron-LM](https://arxiv.org/pdf/1909.08053.pdf)
+- [Chatbot Survey Paper](https://www.mdpi.com/2078-2489/13/1/41)
 
 ## Anomaly Detection
 
