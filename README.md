@@ -110,6 +110,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Megatron-LM](https://arxiv.org/pdf/1909.08053.pdf)
 - [Chatbot Survey Paper](https://www.mdpi.com/2078-2489/13/1/41)
 - [ChatGPT is not all you need](https://arxiv.org/pdf/2301.04655.pdf)
+- [A Watermark for Large Language Models](https://arxiv.org/pdf/2301.10226.pdf)
 
 ## Anomaly Detection
 
