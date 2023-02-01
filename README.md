@@ -111,6 +111,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Chatbot Survey Paper](https://www.mdpi.com/2078-2489/13/1/41)
 - [ChatGPT is not all you need](https://arxiv.org/pdf/2301.04655.pdf)
 - [A Watermark for Large Language Models](https://arxiv.org/pdf/2301.10226.pdf)
+- [Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models](https://arxiv.org/abs/2301.13826)
 
 ## Anomaly Detection
 
