@@ -113,6 +113,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [A Watermark for Large Language Models](https://arxiv.org/pdf/2301.10226.pdf)
 - [Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models](https://arxiv.org/abs/2301.13826)
 - [Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)
+- [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 
 ## Anomaly Detection
 
