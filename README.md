@@ -115,6 +115,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)
 - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 - [Why Can GPT Learn In-Context?](https://arxiv.org/pdf/2212.10559v2.pdf)
+- [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 
 ## Anomaly Detection
 
