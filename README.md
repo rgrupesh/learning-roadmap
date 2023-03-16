@@ -117,6 +117,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Why Can GPT Learn In-Context?](https://arxiv.org/pdf/2212.10559v2.pdf)
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 - [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+- [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 
 ## Anomaly Detection
 
