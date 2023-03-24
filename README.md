@@ -118,6 +118,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 - [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
+- [BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
 ## Anomaly Detection
 
