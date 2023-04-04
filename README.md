@@ -119,6 +119,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/)
+- [BloombergGPT](https://arxiv.org/abs/2303.17564?fbclid=IwAR2QRQbzFoVI0fEtgpnPCdPHDEdnqOF65xkp-yhcC2y1ZgmCanDUB8QDqoo#)
 
 ## Anomaly Detection
 
