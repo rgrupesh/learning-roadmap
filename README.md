@@ -137,9 +137,10 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 -[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 -[Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
-## Blogs
+## Blogs and Extra Resources 
 
 -[Deep Neural Nets: 33 years ago and 33 years from now](https://karpathy.github.io/2022/03/14/lecun1989/)
 -[ChatGPT](https://openai.com/blog/chatgpt/)
 -[DALL-E](https://openai.com/blog/dall-e/)
 -[Twitter Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+-[The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
