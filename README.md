@@ -120,6 +120,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 - [BloombergGPT](https://arxiv.org/abs/2303.17564?fbclid=IwAR2QRQbzFoVI0fEtgpnPCdPHDEdnqOF65xkp-yhcC2y1ZgmCanDUB8QDqoo#)
+- [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
 
 ## Anomaly Detection
 
