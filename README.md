@@ -123,6 +123,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
 - [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/pdf/2305.17333v1.pdf)
 - [Meta Learning for Natural Language Processing: A Survey](https://arxiv.org/abs/2205.01500)
+- [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](https://arxiv.org/pdf/2112.09747v3.pdf)
 
 ## Anomaly Detection
 
