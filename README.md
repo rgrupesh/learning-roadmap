@@ -124,6 +124,7 @@ Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/pdf/2305.17333v1.pdf)
 - [Meta Learning for Natural Language Processing: A Survey](https://arxiv.org/abs/2205.01500)
 - [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](https://arxiv.org/pdf/2112.09747v3.pdf)
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent.fktm3-1.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX9vfXn6&_nc_ht=scontent.fktm3-1.fna&oh=00_AfDI8YOmYMLUlzsHHF6wkmUNYYU1QeQNTI6brS6QdP7OqA&oe=64BBB691)
 
 ## Anomaly Detection
 
